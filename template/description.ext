@@ -6,7 +6,7 @@
  */
 
 // Definicja wersji szablonu - nie zmieniać!
-a4e_missionTemplate = 1.00;
+a4e_missionTemplate = 1.02;
 
 // Deklaracje ekranów tytułowych
 // Używane np. w https://community.bistudio.com/wiki/titleRsc , https://community.bistudio.com/wiki/cutRsc

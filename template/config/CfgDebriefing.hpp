@@ -9,7 +9,7 @@ class CfgDebriefing {
         subtitle = CSTRING(CfgDebriefing_AllTasksAccomplished);
         description = CSTRING(CfgDebriefing_MissonEndSuccess);
         pictureBackground = "data\loadscreen.jpg";
-        picture = "data\a4e.paa";
+        picture = "z\a4es\addons\main\data\a4e_logo_header.paa";
         pictureColor[] = {1,1,1,1};
     };
     class End2 {
@@ -17,7 +17,7 @@ class CfgDebriefing {
         subtitle = CSTRING(CfgDebriefing_MissionFailed);
         description = CSTRING(CfgDebriefing_MissonEndFailed);
         pictureBackground = "data\loadscreen.jpg";
-        picture = "data\a4e.paa";
+        picture = "z\a4es\addons\main\data\a4e_logo_header.paa";
         pictureColor[] = {1,1,1,1};
     };
 

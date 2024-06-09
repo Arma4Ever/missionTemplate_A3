@@ -1,4 +1,4 @@
-Szablon misji A4E 1.0.0
+Szablon misji A4E 1.0.2
 
 
 Przydatne linki:

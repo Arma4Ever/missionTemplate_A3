@@ -14,7 +14,7 @@ class RscTitles {
         class controls {
             class RscPicture_1200: RscPicture {
             	idc = 1200;
-            	text = "data\intro_logo.paa";
+            	text = "z\a4es\addons\main\data\a4e_logo_512.paa"
             	x = 0.37625 * safezoneW + safezoneX;
             	y = 0.269 * safezoneH + safezoneY;
             	w = 0.237187 * safezoneW;

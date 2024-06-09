@@ -18,31 +18,119 @@
 
 player createDiaryRecord [
 "Diary", [
-"Briefing",
+"VI. Uwagi",
 "
-<font size='20'>Briefing <font color='#0066FF'>misji</font></font>
-<br />
-<br />
-<font size='16'>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+<font size='16'>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
 veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
 velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
 anim id est laborum.
-<br />
-<br />
-Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo
-inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit
-aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia
-dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat
-voluptatem.
-<br />
-<br />
-Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis
-autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo
-voluptas nulla pariatur?
+<br /><br />
+Lorem ipsum dolor sit amet.
+<br /><br />
 </font>
-<br />
-<br />
-<img width='360' image='data\loadscreen.jpg' />
+<br /><br />
 "
 ]
 ];
+
+
+player createDiaryRecord [
+"Diary", [
+"V. Wyposażenie",
+"
+<font size='18'>1. Podstawowy sprzęt:</font>
+<font size='16'>
+<br />- M4A1, M4A1+M203, HK 416A5, M249, Glock 17, P99, M9 Beretta, M320 GLM, M136, M72A7 LAW.
+<br /><br />
+</font>
+<font size='18'>2. Pojazdy:</font>
+<font size='16'>
+<br />
+1 x Ural<br />
+2 x UAZ
+
+<br /><br />
+</font>
+<br /><br />
+"
+]
+];
+
+
+
+player createDiaryRecord [
+"Diary", [
+"IV. Cywile",
+"
+<img width='360' image='data\loadscreen.jpg' /><br /><br />
+
+<font size='16'>
+W obszarze działań nie zauważono obecności ludności cywilnej.
+
+</font>
+
+<br /><br />
+<br /><br />
+"
+]
+];
+
+
+player createDiaryRecord [
+"Diary", [
+"III. Siły wroga",
+"
+<font size='16'>
+Kompania piechoty wsparta plutonem pancernym. 
+<br />
+</font>
+<br /><br />
+"
+]
+];
+
+player createDiaryRecord [
+"Diary", [
+"II. Siły własne",
+"
+<font size='16'>
+Drużyny szturmowe:<br />
+Alpha<br />
+Bravo<br />
+Charlie
+<br /><br />
+Drużyna wsparcia:<br />
+Delta
+<br /><br />
+Moździerz:<br />
+Echo<br />
+</font>
+<br /><br />
+"
+]
+];
+
+
+player createDiaryRecord [
+"Diary", [
+"I. Sytuacja",
+"
+<font size='18'>Operacja Przykładowa<br /><br />
+
+<font size='18'>Polska 10.06.2024<br /><br />
+
+<font size='16'>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
+veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
+velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit
+anim id est laborum.
+<br /><br />
+Lorem ipsum dolor sit amet.
+</font>
+<br /><br />
+<br /><br />
+"
+]
+];
+        
